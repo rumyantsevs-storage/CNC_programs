@@ -1,3 +1,2 @@
 # 02_converted_with_notepadpp_script
-## A work peace of NC-program, maked by opening in Notepad++ and run macros, and then pasted in template.
-Рабочая часть ЧПУ-программы, сделанная открытием в Notepad++ и запуском макроса, затем вставленная в шаблон.
+Стадия 2. Получили рабочую часть ЧПУ-программы, сделали это открытием в Notepad++ и запуском макроса, затем вставили в шаблон.
